@@ -34,7 +34,7 @@ const Home = () => {
           <ambientLight intensity={0.5}/> 
           {/* <pointLight  />
           <spotLight /> */}
-          <hemisphereLight skycolor="#b1eff" groundColor={"#000000"} intensity={1}/>
+          <hemisphereLight skycolor="#b1e1ff" groundColor={"#000000"} intensity={1}/>
           <Sky />
           <Island 
           position={islandPostion}
